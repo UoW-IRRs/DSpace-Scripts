@@ -1,4 +1,4 @@
-package nz.ac.lconz.irr.scripts.sync;
+package nz.ac.waikato.its.irr.scripts.sync;
 
 import org.dspace.authorize.AuthorizeException;
 import org.dspace.authorize.AuthorizeManager;

@@ -1,4 +1,4 @@
-package nz.ac.lconz.irr.scripts;
+package nz.ac.waikato.its.irr.scripts;
 
 import org.apache.commons.lang.StringUtils;
 import org.dspace.authorize.AuthorizeException;

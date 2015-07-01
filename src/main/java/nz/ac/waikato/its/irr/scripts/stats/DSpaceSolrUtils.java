@@ -1,4 +1,4 @@
-package nz.ac.lconz.irr.scripts.stats;
+package nz.ac.waikato.its.irr.scripts.stats;
 
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.impl.CommonsHttpSolrServer;

@@ -1,4 +1,4 @@
-package nz.ac.lconz.irr.scripts.stats;
+package nz.ac.waikato.its.irr.scripts.stats;
 
 import org.apache.commons.lang.StringUtils;
 import org.dspace.content.*;

@@ -1,4 +1,4 @@
-package nz.ac.lconz.irr.scripts;
+package nz.ac.waikato.its.irr.scripts;
 
 import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Options;
