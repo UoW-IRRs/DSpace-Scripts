@@ -55,4 +55,21 @@ usage: CopyCollectionConfiguration options
                          one is required.
 ````
 
+### Delete metadata field
 
+Delete all occurrences of a metadata field, optionally also deleting it from the metadata field registry.
+
+Class name for dsrun: nz.ac.waikato.its.irr.scripts.DeleteMetadataField
+
+````
+usage: DeleteMetadataField options
+ -f,--field <arg>   The metadata field whose values should be deleted.
+                    Must follow the pattern schema.element.qualifier or
+                    schema.element.
+ -h,--help          Print help for this command.
+ -n,--dry-run       Don't actually make any changes, just report on what
+                    would be done.
+ -r,--registry      Also remove the field from the metadata registry. This
+                    will fail if any withdrawn items or template items
+                    contain this metadata field.
+````
