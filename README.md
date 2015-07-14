@@ -16,7 +16,7 @@ Substitute actual user that DSpace/tomcat runs under for "tomcat", actual DSpace
 
 Add a bitstream to an item via the command line. Optionally, specify the description and/or the name of the target bundle.
 
-Class name for dsrun: nz.ac.lconz.irr.scripts.AddBitstreamFromCLI
+Class name for dsrun: nz.ac.waikato.its.irr.scripts.AddBitstreamFromCLI
 
 
 ````
@@ -35,7 +35,7 @@ usage: AddBitstreamFromCLI options
 
 Copy aspects of collection configuration from one collection to one or more others.
 
-Class name for dsrun: nz.ac.lconz.irr.scripts.CopyCollectionConfiguration
+Class name for dsrun: nz.ac.waikato.its.irr.scripts.CopyCollectionConfiguration
 
 
 ````
