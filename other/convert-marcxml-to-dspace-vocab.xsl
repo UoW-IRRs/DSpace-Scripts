@@ -1,5 +1,5 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:m="http://www.loc.gov/MARC21/slim" exclude-result-prefixes="m">
-    <xsl:output indent="yes"/>
+    <xsl:output indent="yes" encoding="UTF-8"/>
 
     <xsl:template match="/">
         <node id="NUT" label="Ngā Upoko Tukutuku / Māori Subject Headings">
